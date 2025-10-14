@@ -15,7 +15,7 @@ I enjoy transforming complex datasets into practical applications and have exper
 
 ✨ Please do checkout my new blueberry lime image classifying live web app. It is a bit interesting 😅. 
 
-[Repo Link for information](https://github.com/rishishanthan/blackberry-lime-visual-classifier), [Webb app link](https://huggingface.co/spaces/brs13/blackberry-lime-classifier)
+[Repo Link for information](https://github.com/rishishanthan/blackberry-lime-visual-classifier), [Web app link](https://huggingface.co/spaces/brs13/blackberry-lime-classifier)
 
 ---
 
