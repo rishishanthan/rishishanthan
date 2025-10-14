@@ -20,9 +20,9 @@ I enjoy transforming complex datasets into practical applications and have exper
 
 ## 🧠 My Technical Skills  
 
-**Languages:** Python, MATLAB, SQL, R, C, C++  
+**Languages:** Python, MATLAB, SQL, R, C 
 **Core Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, OpenCV, Seaborn  
-**Deep Learning Frameworks:** PyTorch, TensorFlow, Keras  
+**Deep Learning Frameworks:** PyTorch, TensorFlow  
 **Specialized Areas:**  
 - Neural Networks (CNNs, RNNs, LSTMs, Transformers)  
 - Computer Vision (YOLO, Object Detection, Image Processing)  
