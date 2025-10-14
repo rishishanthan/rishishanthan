@@ -14,6 +14,7 @@ My projects span across domains — from **autonomous traffic object detection**
 I enjoy transforming complex datasets into practical applications and have experience with the **entire ML pipeline** — data preprocessing, model building, optimization, visualization, and deployment.  
 
 ✨ Please do checkout my new blueberry lime image classifying live web app. It is a bit interesting 😅. 
+
 [Repo Link for information](https://github.com/rishishanthan/blackberry-lime-visual-classifier), [Webb app link](https://huggingface.co/spaces/brs13/blackberry-lime-classifier)
 
 ---
