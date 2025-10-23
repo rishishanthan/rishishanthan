@@ -21,7 +21,8 @@ I enjoy transforming complex datasets into practical applications and have exper
 
 ## 🧠 My Technical Skills  
 
-**Languages:** Python, MATLAB, SQL, R, C 
+**Languages:** Python, MATLAB, SQL, R, C
+
 **Core Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, OpenCV, Seaborn  
 **Deep Learning Frameworks:** PyTorch, TensorFlow  
 **Specialized Areas:**  
