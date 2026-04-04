@@ -95,8 +95,8 @@ Co-authored · Cleveland Heart Disease DB · LogReg vs Random Forest · Flask we
 
 ### 🎓 Education
 
-**M.S. in Engineering Science (Data Science)** — University at Buffalo (SUNY), 2024–2025  
-**B.Tech in Minerals, Metallurgical & Materials Engineering** — IIT Bhubaneswar, 2019–2023
+**Master of Science in Engineering Science (Data Science)** — University at Buffalo (SUNY), 2024–2025  
+**Bachelor of Tech** — IIT Bhubaneswar, 2019–2023
 
 ---
 
