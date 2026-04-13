@@ -2,7 +2,7 @@
 
 **ML/AI Engineer | 3+ years building from-scratch deep learning pipelines across CV, GenAI, NLP, and biometrics | Published Researcher | Original Kaggle Dataset Author**
 
-I build ML/DL systems **from scratch** — hand-coded backpropagation, diffusion samplers, camera calibration via DLT+SVD, and biometric evaluation pipelines. ~5 years of experience across computer vision, generative modeling, NLP, and production software engineering.
+I build ML/DL systems **from scratch** — hand-coded backpropagation, diffusion samplers, camera calibration via DLT+SVD, and biometric evaluation pipelines. 3+ years of experience across computer vision, generative modeling, NLP, and production software engineering.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rishishanthan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishishanthan)
 [![Kaggle](https://img.shields.io/badge/Kaggle-rishishanthan-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/rishishanthan)
