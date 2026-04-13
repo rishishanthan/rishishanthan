@@ -1,6 +1,6 @@
 # Hey, I'm Rishi Shanthan 👋
 
-**ML / AI Engineer** · **Computer Vision** · **Published Researcher** · **Original Dataset Author**
+**ML/AI Engineer | 3+ years building from-scratch deep learning pipelines across CV, GenAI, NLP, and biometrics | Published Researcher | Original Kaggle Dataset Author**
 
 I build ML/DL systems **from scratch** — hand-coded backpropagation, diffusion samplers, camera calibration via DLT+SVD, and biometric evaluation pipelines. ~5 years of experience across computer vision, generative modeling, NLP, and production software engineering.
 
